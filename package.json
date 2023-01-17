@@ -1,0 +1,19 @@
+{
+  "name": "projectdemotest",
+  "version": "1.0.0",
+  "description": "Ejemplo de pruebas automatizadas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QA",
+    "Automation",
+    "Test"
+  ],
+  "author": "Cristian",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}
